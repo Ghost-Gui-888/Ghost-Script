@@ -1,2 +1,15 @@
-本文件为鬼脚本源码文件，里面的内容全部由月亮v3加密过，所以有一些人这个想法可以放弃了
-鬼脚本QQ官群：206963805，欢迎你来到我们这个大家族😊😊😊
+ * 鬼脚本
+# 介绍
+ * 鬼脚本作者：鬼
+ * [鬼脚本作者QQ](https://qm.qq.com/q/IZRWf2X4ye)
+ * [鬼脚本官方群聊](https://qm.qq.com/q/SgjAeSuXKY)
+# 鬼脚本
+```lua
+--〖必须全部复制┇鬼脚本〗
+ROBLOX = "GHOST_SCRIPT"
+GS_TEAM = "QQ群858895377"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ghost-Gui-888/Ghost-Script/main/QQ858895377"))()
+```
+
+[图片](https://raw.githubusercontent.com/Ghost-Gui-888/Ghost-Script/main/Ghost-Script- Logo.jpg)
+  
