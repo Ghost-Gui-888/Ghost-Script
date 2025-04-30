@@ -10,5 +10,5 @@ GS_TEAM = "QQ群858895377"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Ghost-Gui-888/Ghost-Script/main/QQ858895377"))()
 ```
 # 鬼脚本LOG0
-[图片](https://raw.githubusercontent.com/Ghost-Gui-888/Ghost-Script/main/Ghost-Script-Logo.jpg)
+* 鬼脚本LOG0[图片](https://raw.githubusercontent.com/Ghost-Gui-888/Ghost-Script/main/Ghost-Script-Logo.jpg)
   
